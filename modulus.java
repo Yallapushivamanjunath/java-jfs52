@@ -1,4 +1,4 @@
-public class modulus.arrays.forloop.if {
+public class modulusarraysforloopif {
     public static void main(String[] args){
         int arr[] = {2,6,8,10,11,21,13,14};
         int count = 0;
